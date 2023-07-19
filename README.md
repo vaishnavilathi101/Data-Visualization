@@ -47,5 +47,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Screenshots
 
-![image](https://github.com/vaishnavilathi101/Data-Visualization/assets/68653542/a4314900-a1b4-454b-ac49-0b8fe0dafa94)
+![image](https://github.com/vaishnavilathi101/Data-Visualization/assets/68653542/e936d204-00dd-4e6f-b3f9-6eb7aaab6220)
+
 
