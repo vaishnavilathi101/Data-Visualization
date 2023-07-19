@@ -41,8 +41,5 @@ export const calculateMode = (arr: any[], key: string) => {
       return tempObj.push(item);
     }
   });
-  if (tempObj.length === arr.length) {
-    return [];
-  }
   return tempObj;
 };
